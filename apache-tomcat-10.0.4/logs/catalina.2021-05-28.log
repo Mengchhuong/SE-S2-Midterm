@@ -1,0 +1,90 @@
+28-May-2021 12:04:18.162 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.4
+28-May-2021 12:04:18.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2021 11:07:15 UTC
+28-May-2021 12:04:18.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.4.0
+28-May-2021 12:04:18.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+28-May-2021 12:04:18.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+28-May-2021 12:04:18.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-May-2021 12:04:18.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Meng Chhuong\Downloads\jdk-15.0.2
+28-May-2021 12:04:18.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           15.0.2+7-27
+28-May-2021 12:04:18.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-May-2021 12:04:18.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4
+28-May-2021 12:04:18.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4
+28-May-2021 12:04:18.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+28-May-2021 12:04:18.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+28-May-2021 12:04:18.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+28-May-2021 12:04:18.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-May-2021 12:04:18.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-May-2021 12:04:18.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\conf\logging.properties
+28-May-2021 12:04:18.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-May-2021 12:04:18.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-May-2021 12:04:18.199 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-May-2021 12:04:18.199 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+28-May-2021 12:04:18.199 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4
+28-May-2021 12:04:18.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4
+28-May-2021 12:04:18.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\temp
+28-May-2021 12:04:18.234 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.26] using APR version [1.7.0].
+28-May-2021 12:04:18.234 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+28-May-2021 12:04:18.240 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1i  8 Dec 2020]
+28-May-2021 12:04:18.551 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-May-2021 12:04:18.594 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [665] milliseconds
+28-May-2021 12:04:18.657 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-May-2021 12:04:18.657 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.4]
+28-May-2021 12:04:18.663 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\docs]
+28-May-2021 12:04:18.979 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\docs] has finished in [316] ms
+28-May-2021 12:04:18.979 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\examples]
+28-May-2021 12:04:19.813 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\examples] has finished in [834] ms
+28-May-2021 12:04:19.829 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\host-manager]
+28-May-2021 12:04:19.866 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\host-manager] has finished in [37] ms
+28-May-2021 12:04:19.882 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\manager]
+28-May-2021 12:04:19.913 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\manager] has finished in [31] ms
+28-May-2021 12:04:19.913 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\ROOT]
+28-May-2021 12:04:19.960 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\ROOT] has finished in [47] ms
+28-May-2021 12:04:19.967 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-May-2021 12:04:19.998 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1410] milliseconds
+28-May-2021 13:37:59.416 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\exam]
+28-May-2021 13:37:59.483 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\exam] has finished in [67] ms
+28-May-2021 13:38:23.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.4
+28-May-2021 13:38:23.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2021 11:07:15 UTC
+28-May-2021 13:38:23.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.4.0
+28-May-2021 13:38:23.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+28-May-2021 13:38:23.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+28-May-2021 13:38:23.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-May-2021 13:38:23.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Meng Chhuong\Downloads\jdk-15.0.2
+28-May-2021 13:38:23.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           15.0.2+7-27
+28-May-2021 13:38:23.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-May-2021 13:38:23.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4
+28-May-2021 13:38:23.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4
+28-May-2021 13:38:24.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+28-May-2021 13:38:24.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+28-May-2021 13:38:24.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+28-May-2021 13:38:24.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-May-2021 13:38:24.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-May-2021 13:38:24.001 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\conf\logging.properties
+28-May-2021 13:38:24.001 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-May-2021 13:38:24.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-May-2021 13:38:24.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-May-2021 13:38:24.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+28-May-2021 13:38:24.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4
+28-May-2021 13:38:24.012 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4
+28-May-2021 13:38:24.013 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\temp
+28-May-2021 13:38:24.016 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.26] using APR version [1.7.0].
+28-May-2021 13:38:24.017 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+28-May-2021 13:38:24.024 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1i  8 Dec 2020]
+28-May-2021 13:38:24.349 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-May-2021 13:38:24.389 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [600] milliseconds
+28-May-2021 13:38:24.444 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-May-2021 13:38:24.444 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.4]
+28-May-2021 13:38:24.455 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\docs]
+28-May-2021 13:38:24.783 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\docs] has finished in [327] ms
+28-May-2021 13:38:24.784 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\exam]
+28-May-2021 13:38:24.838 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\exam] has finished in [53] ms
+28-May-2021 13:38:24.838 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\examples]
+28-May-2021 13:38:25.280 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\examples] has finished in [442] ms
+28-May-2021 13:38:25.281 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\host-manager]
+28-May-2021 13:38:25.324 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\host-manager] has finished in [43] ms
+28-May-2021 13:38:25.324 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\manager]
+28-May-2021 13:38:25.362 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\manager] has finished in [38] ms
+28-May-2021 13:38:25.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\ROOT]
+28-May-2021 13:38:25.391 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\I4-Semester 2\java\midterm examS2\apache-tomcat-10.0.4\webapps\ROOT] has finished in [28] ms
+28-May-2021 13:38:25.397 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-May-2021 13:38:25.441 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1051] milliseconds
